@@ -9,4 +9,4 @@ This is the PLP group 283 database assignment
 
 Collaborators
 1. Emmanuel Chege Gitiche
-2.
+2. Kimathi Roy
